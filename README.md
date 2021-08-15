@@ -4,11 +4,11 @@
 
 ## Status
 1. Homework 2
-    [ ] RNN image captioning
-    [ ] LSTM image captioning
+    - [ ] RNN image captioning
+    - [ ] LSTM image captioning
 2. Homework 3
-    [ ] Language Modeling
-    [ ] Summarization
-    [ ] Knowledge Distillation
+    - [ ] Language Modeling
+    - [ ] Summarization
+    - [ ] Knowledge Distillation
 
 
