@@ -5,7 +5,7 @@
 ## Status
 1. Homework 2
     - [x] RNN image captioning
-    - [ ] LSTM image captioning
+    - [x] LSTM image captioning
 2. Homework 3
     - [ ] Language Modeling
     - [ ] Summarization
