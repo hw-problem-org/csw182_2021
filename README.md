@@ -7,8 +7,5 @@
     - [x] RNN image captioning
     - [x] LSTM image captioning
 2. Homework 3
-    - [ ] Language Modeling
+    - [x] Language Modeling
     - [ ] Summarization
-    - [ ] Knowledge Distillation
-
-
